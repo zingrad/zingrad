@@ -4,7 +4,7 @@
 #### Espero que gostem dos conteúdos 🙂
 
 #### Contato : (11) 95749-5187
-#### E-mail : erick.isabelle@gmail.com
+#### E-mail : Erick.Gomess2002@gmail.com
 
 <div>
   <a href="https://github.com/zingrad">
