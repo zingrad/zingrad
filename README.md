@@ -1,5 +1,5 @@
 ## Olá! Eu sou Erick Gomes
-#### Programador Full-Stack focado em Javascript | Vue | PHP | Typescript | WordPress | Laravel | Python | B2 English.
+#### Programador Full-Stack PHP |Javascript | Vue | Typescript | WordPress | Laravel | Python | B2 English.
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 #### Espero que gostem dos conteúdos 🙂
 
